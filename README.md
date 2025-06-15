@@ -63,11 +63,5 @@ text
    - Uploading to `assets/` folder
    - Updating the image link
 
-2. For **detailed formatting**:
-   - Use [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
-   - Preview changes in VS Code (`Ctrl+Shift+V`)
+![image](https://github.com/user-attachments/assets/a3d2a9a7-9ace-4ed4-8df4-a1fc378ce0c9)
 
-3. Add a **demo video** link if available:
-   ```markdown
-   ## 🎥 Demo
-   [Watch tutorial video](https://youtube.com/your-demo-link)

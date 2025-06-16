@@ -28,8 +28,7 @@ Run the application:
 
 bash
 streamlit run flashcard_generator.py
-📸 Screenshots
-https://via.placeholder.com/800x500.png?text=Flashcard+Generator+UI
+
 
 📁 Sample Output
 csv
